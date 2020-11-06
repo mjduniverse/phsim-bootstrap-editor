@@ -1,0 +1,19 @@
+{
+  "name": "phsim-bootstrap-editor",
+  "version": "1.0.0",
+  "description": "PhSim GUI editor designed with bootstrap.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mjduniverse",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.2.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "rectangle-frame": "^1.0.2"
+  }
+}
